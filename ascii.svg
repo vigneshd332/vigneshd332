@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
+
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">      ..&#40;#%&#38;%%##%%%&#40;%&#40;%#&#40;&#40;&#40;&#40;*      </tspan>
+<tspan x="15" y="50">      #&#38;%#%###%%&#38;%&#38;##%&#38;%%%%###&#40;    </tspan>
+<tspan x="15" y="70">      &#40;#%%%%&#38;&#38;&#38;%%&#38;&#38;&#38;&#38;%&#38;&#38;&#38;%&#38;#%%&#40;&#40;#&#40; </tspan>
+<tspan x="15" y="90">    . &#40;%%&#38;%&#38;@&#38;%%%###%%&#38;&#38;&#38;&#38;&#38;&#38;%%%####</tspan>
+<tspan x="15" y="110">   .../#%&#38;&#38;%#%#&#40;&#40;&#40;&#40;&#40;##%%%%%&#38;%&#38;&#38;%##%</tspan>
+<tspan x="15" y="130">    ..&#40;%%&#38;&#40;&#40;/&#40;&#40;##&#38;&#38;&#38;&#40;//&#40;###%%&#38;@&#38;&#38;%&#40;</tspan>
+<tspan x="15" y="150"> . ..*##&#38;&#40;/&#40;#&#38;%&#38;@%&#38;#&#40;##%%&#38;%#%&#38;&#38;/   </tspan>
+<tspan x="15" y="170">. ... #@%/////&#40;&#40;&#40;&#40;&#40;/* #&#38;#@@%#&#38;*    </tspan>
+<tspan x="15" y="190"> . .. /@#/////&#40;##**/* *#&#40;&#40;&#40;/&#40;*     </tspan>
+<tspan x="15" y="210"> ....   /&#40;&#40;&#40;##&#40;&#40;&#40;###&#40;##/%#/&#40;/      </tspan>
+<tspan x="15" y="230">.....    &#40;&#40;&#40;#&#40;#%%#######%%#/***    </tspan>
+<tspan x="15" y="250">.....    &#40;#&#40;&#40;&#40;//&#40;&#40;###&#40;&#40;#%#***      </tspan>
+<tspan x="15" y="270">.....  &#40;@&#40;#%##&#40;&#40;&#40;&#40;###&#40;#%/****      </tspan>
+<tspan x="15" y="290">.....%&#38;%&#40;####%&#38;%#####%@%%&#38;%%#/***  </tspan>
+<tspan x="15" y="310">.&#40;##%&#38;%%%##&#40;#&#40;##%%####%%%%##%%####&#40;</tspan>
+<tspan x="15" y="330">#%#%%&#38;%&#38;%#&#40;&#40;&#40;#####%%%%%%&#38;#%########</tspan>
+<tspan x="15" y="350">#&#38;#%%&#38;&#38;&#38;%&#38;&#40;&#40;&#40;&#40;&#40;&#40;&#40;&#40;&#40;%&#38;%%%%%%%%%#%###</tspan>
+<tspan x="15" y="370">%%###%%%%%&#38;&#38;&#38;&#38;&#38;@@@&#38;&#38;&#38;%%&#38;%#%#%######</tspan>
+<tspan x="15" y="390">%%@%%&#38;&#38;%&#38;%&#38;%%&#38;%%&#38;%%%%%%%%#########%</tspan>
+<tspan x="15" y="410">%%%@&#38;%%%%&#38;%%%%%%%#%&#38;&#38;%%%%####%#####</tspan>
+<tspan x="15" y="430">%%%%&#38;%%%%%%%%%%&#38;%&#38;%%%#%%%#%%%%%%###</tspan>
+<tspan x="15" y="450">%%%%&#38;%%%%%%%%%%%%%#%%#%#%%%%%%##%%#</tspan>
+<tspan x="15" y="470">#%#%&#38;%%%%&#38;%,.%%%%%%%%%%%%%%%%#%%#%&#38;</tspan>
+<tspan x="15" y="490">///&#40;&#38;%%%%#....%%%%%%%%#%%%%%#%#%#@#</tspan>
+<tspan x="15" y="510">**//%.#%%/....%##..#.#%%#%%%#%#%%%%</tspan>
+</text>
+
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">vigneshd332</tspan>
+<tspan x="370" y="50">——————</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, Linux, Android</tspan>
+<tspan x="370" y="90" class="keyColor">Host</tspan>: <tspan class="valueColor">National Institute of Technology, Trichy</tspan>
+<tspan x="370" y="110" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Metallurgial and Materials Engineering &#40; Major &#41;</tspan>
+<tspan x="370" y="130" class="keyColor">      </tspan>  <tspan class="valueColor">Computer Applications &#40; Minor &#41;</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, IntelliJ IDEA, Neovim</tspan>
+<tspan x="370" y="190" class="keyColor">Domains</tspan>: <tspan class="valueColor">Full Stack, Systems, Game Dev, Dev Ops</tspan>
+<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">TypeScript, Golang, Python, Solidity,</tspan>
+<tspan x="370" y="250" class="keyColor">         </tspan> <tspan class="keyColor">           </tspan>  <tspan class="valueColor">Java, C++</tspan>
+<tspan x="370" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Markup</tspan>: <tspan class="valueColor">HTML, CSS, XML, LaTeX, YAML, Markdown</tspan>
+<tspan x="370" y="310" class="keyColor">Languages</tspan>.<tspan class="keyColor">Human</tspan>: <tspan class="valueColor">English, Tamil, Hindi, Telugu</tspan>
+<tspan x="370" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Music Production, Gaming</tspan>
+<tspan x="370" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Aeromodelling, Cooking</tspan>
+<tspan x="370" y="410" class="keyColor">Contact</tspan>:
+<tspan x="370" y="430">——————</tspan>
+<tspan x="370" y="450" class="keyColor">Portfolio</tspan>: <tspan class="valueColor"><a href="https://net-runner.dev/">https://net-runner.dev/</a></tspan>
+<tspan x="370" y="470" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Vignesh Duraisamy</tspan>
+<tspan x="370" y="490" class="keyColor">Discord</tspan>: <tspan class="valueColor">netrunner._</tspan>
+<tspan x="370" y="510" class="keyColor">Email</tspan>: <tspan class="valueColor">vigneshd332@gmail.com</tspan>
+</text>
+
+</svg>
